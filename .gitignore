@@ -1,0 +1,5 @@
+*.tmp
+hibernate-trainning.iml
+.idea/*
+target/*
+.class
